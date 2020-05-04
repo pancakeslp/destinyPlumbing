@@ -28,7 +28,7 @@
     "multimeter": "^0.1.1",
     "objectdiff": "^1.1.0",
     "prettier": "^1.10.2",
-    "sqlite3": "^4.0.2",
+    "sqlite3": "^4.1.0",
     "unzip": "^0.1.11"
   },
   "devDependencies": {
@@ -38,5 +38,8 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.8.0"
+  },
+  "resolutions": {
+"graceful-fs": "4.2.3"
   }
 }
